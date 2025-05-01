@@ -1,0 +1,36 @@
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.csproj.AssemblyReference.cache
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.Form1.resources
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.Properties.Resources.resources
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.csproj.GenerateResource.cache
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.csproj.CoreCompileInputs.cache
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Ping Tester.exe.config
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Ping Tester.exe
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Ping Tester.pdb
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\Ping Tester.exe
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\Ping Tester.pdb
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.Form3.resources
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.Form2.resources
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\GMap.NET.Core.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.csproj.Up2Date
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\SpeedTest.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Buffers.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Memory.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\SpeedTest.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Buffers.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Memory.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\erent\source\repos\pingtester\pingtester\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\erent\source\repos\pingtester\pingtester\obj\Debug\pingtester.Form4.resources

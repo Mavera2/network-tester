@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pingtester", "pingtester\pingtester.csproj", "{DDADD4E1-C55E-4EA3-B3A4-B5773F0B6F1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		pingtester\bin\Debug\speedtest.exe = pingtester\bin\Debug\speedtest.exe
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDADD4E1-C55E-4EA3-B3A4-B5773F0B6F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDADD4E1-C55E-4EA3-B3A4-B5773F0B6F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDADD4E1-C55E-4EA3-B3A4-B5773F0B6F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDADD4E1-C55E-4EA3-B3A4-B5773F0B6F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F244F84-1F14-47C9-A9C8-30D9E282606B}
+	EndGlobalSection
+EndGlobal
